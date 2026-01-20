@@ -1,0 +1,25 @@
+# Azure ML SDK
+azure-ai-ml==1.12.0
+azure-identity==1.15.0
+
+# ML Libraries
+scikit-learn==1.4.0
+pandas==2.2.0
+numpy==1.26.3
+matplotlib==3.8.2
+seaborn==0.13.1
+
+# MLflow for experiment tracking
+mlflow==2.10.0
+azureml-mlflow==1.54.0
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.29.0
+
+# Git integration
+nbstripout==0.7.1
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
