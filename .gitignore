@@ -51,6 +51,7 @@ mlruns/
 *.parquet
 *.json
 !configs/*.json
+!.devcontainer/*.json
 *.pkl
 *.joblib
 *.h5
