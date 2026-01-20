@@ -15,7 +15,7 @@ This project demonstrates professional ML workflows with Azure ML:
 ```
 azure-machine-learning-playground/
 ├── .devcontainer/          # Codespaces configuration
-│   └── devcontainer.json   # Python 3.11 + Azure CLI + Extensions
+│   └── devcontainer.json   # Python 3.13 + Azure CLI + Extensions
 ├── notebooks/              # Jupyter Notebooks for development
 │   ├── 00_setup_connection.ipynb    # Connect to Azure ML Workspace
 │   └── 01_iris_training.ipynb       # Example: Iris dataset training
@@ -49,7 +49,7 @@ azure-machine-learning-playground/
 3. Wait for Codespaces to load (approx. 2-3 minutes on first launch)
 
 The `devcontainer.json` automatically installs:
-- Python 3.11
+- Python 3.13
 - Azure CLI
 - All Python dependencies from `requirements.txt`
 - Jupyter extensions
