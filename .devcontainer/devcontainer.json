@@ -1,6 +1,6 @@
 {
   "name": "Azure ML Playground",
-  "image": "mcr.microsoft.com/devcontainers/python:3.13",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
 
   "features": {
     "ghcr.io/devcontainers/features/azure-cli:1": {

@@ -1,6 +1,7 @@
-# Azure ML SDK
-azure-ai-ml==1.12.0
-azure-identity==1.15.0
+# Azure ML SDK (Python 3.11 compatible)
+azure-ai-ml==1.31.0
+azure-identity>=1.25.0
+marshmallow>=3.23.0
 
 # ML Libraries
 scikit-learn==1.4.0
